@@ -1,0 +1,10 @@
+idPatida;idJugador;esAsesino;numRondas;estadoFinal;fecha;duracion
+P1;J1;1;5;Asesino gana;2024-02-25 10:00:00;00:30:00
+P1;J2;0;5;Asesino gana;2024-02-25 10:00:00;00:30:00
+P1;J3;0;5;Asesino gana;2024-02-25 10:00:00;00:30:00
+P2;J4;1;6;Asesino pierde;2024-02-25 11:00:00;00:45:00
+P2;J5;0;6;Asesino pierde;2024-02-25 11:00:00;00:45:00
+P3;J1;1;4;Asesino gana;2024-02-26 12:00:00;01:15:00
+P3;J3;0;4;Asesino gana;2024-02-26 12:00:00;01:15:00
+P3;J5;0;4;Asesino gana;2024-02-26 12:00:00;01:15:00
+

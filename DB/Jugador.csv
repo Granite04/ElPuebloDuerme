@@ -1,0 +1,7 @@
+idJugador;nombre;nivel;partidas_jugadas;victorias;derrotas;partidas_asesino;partidas_pueblo
+J1;Jugador1;10;100;80;20;50;50
+J2;Jugador2;8;90;60;30;40;50
+J3;Jugador3;12;110;100;10;70;40
+J4;Jugador4;15;120;90;30;60;60
+J5;Jugador5;9;80;50;30;30;50
+

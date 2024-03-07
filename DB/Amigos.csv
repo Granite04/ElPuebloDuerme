@@ -1,0 +1,7 @@
+idAmistad;idJugador1;idJugador2;estado
+A1;J1;J2;Aceptada
+A2;J1;J3;Pendiente
+A3;J2;J4;Aceptada
+A4;J3;J5;Aceptada
+A5;J4;J5;Pendiente
+

@@ -1,0 +1,6 @@
+idLogro;nombre;descripcion
+L1;PrimerVictoria;"Obtenida al ganar la primera partida"
+L2;100PartidasJugadas;"Obtenida al alcanzar 100 partidas jugadas"
+L3;Superviviente;"Obtenida al sobrevivir 10 partidas seguidas"
+L4;Constructor;"Obtenida al reparar 50 instalaciones"
+L5;EquipoPerfecto;"Obtenida al formar equipo con todos los roles"

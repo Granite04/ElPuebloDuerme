@@ -1,0 +1,14 @@
+idRol;nombre;descripcion;habilidad
+C1;Asesino;Rol encargado de eliminar a los inocentes;Su habilidad especial es el Sigilo. El Asesino se mueve entre las sombras, eliminando a los inocentes sin ser detectado.
+C2;Pueblo;Rol básico sin habilidades especiales;Los aldeanos son el corazón del pueblo, pero carecen de habilidades especiales. Su fuerza radica en su número y su capacidad para trabajar juntos.
+C3;Bruja;Puede matar y curar a una persona a lo largo de la partida;La Bruja posee un conocimiento antiguo de las artes oscuras. Puede decidir entre la vida y la muerte con sus poderosas pociones.
+C4;Gordo;El gordo al morir mata una carta del usuario de la derecha;El Gordo, conocido por su apetito voraz, deja un legado de destrucción a su paso. Al morir, su última comida se convierte en su víctima.
+C5;Loro;El loro levanta una carta y durante un turno todos pueden ver su contenido. Pasado ese turno, la carta vuelve a darse la vuelta.;El loro es un pájaro astuto y curioso que no puede resistir la tentación de revelar secretos. Sin embargo, su charla es breve y pronto se olvida.
+C6;Niña;La niña cada noche puede ver el contenido de una carta (nadie puede saber quién es la niña);La Niña, una figura enigmática, observa silenciosamente desde la oscuridad. Sus ojos jóvenes ven más de lo que los demás pueden comprender.
+C7;Cupido;El cupido a la noche enamora a dos jugadores. Si alguna carta de uno de los jugadores muere, otra carta del otro jugador morirá.;Cupido, el travieso dios del amor, une los destinos de dos corazones con sus flechas de oro. Pero la pasión a menudo lleva a consecuencias inesperadas.
+C8;Verdugo;El verdugo puede matar a otro jugador durante la votación, pero a cambio, él también morirá.;El Verdugo, un agente de la ley implacable, lleva a cabo la justicia sin vacilar. Sin embargo, su propia ejecución es la última parte de su sombría tarea.
+C9;Sanador;El sanador revive todas las cartas muertas del jugador al morir.;El Sanador, dotado de un conocimiento antiguo y poderes curativos, trae la vida de vuelta a los que han sido perdidos. Su sacrificio es el precio de la restauración.
+
+
+
+
